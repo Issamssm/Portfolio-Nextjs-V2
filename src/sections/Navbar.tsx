@@ -51,7 +51,7 @@ function Navbar() {
 
   return (
     <nav>
-      <div className={`wrapper ${navbarVisible ? "blur-nav" : ""}`}>
+      <div className={"wrapper blur-nav"}>
         <motion.div
           className="brand"
           initial={{ opacity: 0 }}
