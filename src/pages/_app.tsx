@@ -9,10 +9,6 @@ const firaCode = Fira_Code({
   subsets: ["latin"],
 });
 
-export const metadata: Metadata = {
-  title: 'Lizame Issam',
-}
-
 export default function App({ Component, pageProps }: AppProps) {
   return (
     <>
