@@ -27,7 +27,7 @@ function Loader({ isLoading, setIsLoading }: any) {
           >
             <title>Logo</title>
             <g>
-              <g id="K" transform="translate(35.000000, 35.000000)">
+              <g id="I" transform="translate(35.000000, 35.000000)">
                 <motion.path
                   initial={{ opacity: 0 }}
                   animate={{ opacity: 1 }}
