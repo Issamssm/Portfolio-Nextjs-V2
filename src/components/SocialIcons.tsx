@@ -9,16 +9,16 @@ import { motion } from "framer-motion";
 
 function SocialIcons() {
   const socialLinks = [
-    { name: "Github", icon: <FiGithub />, link: "https://www.github.com" },
+    { name: "Github", icon: <FiGithub />, link: "https://github.com/Issamssm/" },
     {
       name: "LinkedIn",
       icon: <FiLinkedin />,
-      link: "/",
+      link: "www.linkedin.com/in/issam-lizame-189b56258",
     },
     {
       name: "Instagram",
       icon: <FiInstagram />,
-      link: "/",
+      link: "https://www.instagram.com/issam_eli_/",
     },
   ];
   return (
